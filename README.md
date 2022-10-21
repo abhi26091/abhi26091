@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhi26091
 - 👀 I’m interested in coding ideas into reality
-- 🌱 I’m currently learning python advanced
+- 🌱 I’m currently learning java and dsa
 - 💞️ I’m looking to collaborate on ...
 - 📫 can reach me on kjha26091@gmail.com
 
